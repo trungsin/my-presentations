@@ -38,7 +38,7 @@ WORK EXPERIENCE
 | 05/2007 - 12/2009| Project Manager | Trung Anh Information and Telecommunications, Huế | - Manage team develop software
 - Manage customer system
 - Join team develop Web application
-- Manage team
+- Manage team |
 
 For Project Freeland:
 -----------
