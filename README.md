@@ -36,6 +36,13 @@ WORK EXPERIENCE
 | Date        | Type     | Company        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 05/2007 - 12/2009| Project Manager | Trung Anh Information and Telecommunications, Huế | Manage team develop software, Manage customer system, Join team develop Web application, Manage team |
+| 01/2010 - 05/2010| Develop & Project Manager | Solutions &amp; Technology Smart Copr | Manage team develop Web App On DotNetNuKe, Manage customers using Web Appe, Join design analysis systems management Web-based Single Window |
+| 05/2010 - 04/2012| staff | FPT Software, Đa Nang branch | Join the project of the Japanese market, Development for ATM system tool, Rated for solving the volume of project work |
+| 03/2012 - 02/2013| Programming | GameLoft | port game, fix bug on game, manager team 3 member, port game for phone master(low memory, low chip), this is phone very hard to port |
+| 02/2013 - 01/2016| Team leader, PM | Fpt software | Manager team 7 member(create plan, detail plan from PM, check task daily for member), Total report for customer, Review product for team, Develop, Create test case, Test, Meeting with customer, report, get requiment, |
+| 09/2016 - 06/2020| IT Manager, PM | Đất Xanh Miền Trung | IT Department Manager, Advise the General Director on smart home solutions, information technology,... Manage the company's software projects outsourced outside, Analyze the business of the company to make software solutions, Research and integrate the systems of the parties together (Sales system integrated, into ERP, Sales system with Accounting, Human resources system with accounting, integrated login system 1 for all), Deploying smartbuilding project for the office at 52-54 Vo Van Kiet, Support consulting and implementation of smart city projects that the company invests Implement online booking system for business units |
+| 06/2020 - 06/2021| IT Manager, PM | Công ty Cổ Phần Tập Đoàn Khải Tín | Responsible for the Group's Technology Development Coordinating technology projects, collaborating with technology partners to build IoT for smart home, smart city, smart building, Implement corporate governance project for the entire corporation, towards the digitization of the entire enterprise |
+| 06/2021 - New| Developer Full Stack | New Way Hub | Manage theme store shopify, baseshop,... Develop backend and frontend to manage product, order, Implementation of the company's ERP system |
 
 For Project Freeland:
 -----------
