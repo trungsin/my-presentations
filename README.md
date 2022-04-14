@@ -7,8 +7,6 @@
 
 An engineer with more than 17 years of experience in IT. The main areas of my professional interest are - javascript based technologies, frontend and backend architecture, mobile development, web development, IoT and hardware development, Databases etc. 
 
-Open source contributor: author and maintainer of popular copy/paste detector named [jscpd](https://github.com/kucherenko/jscpd). 
-
 I was born in a family of engineers, that’s why I respect different engineering areas ranging from mechanics to IT.
 
 Facebook: [Lê Trung Sin](https://www.facebook.com/sin.letrung)
@@ -24,13 +22,6 @@ List open source projects:
 
 #### Runs
 
-| Date        | Idea         |   Location    |       |
-| ----------- | ------------ | ------------- | ----- |
-| 2019        | Extreme Startup, application for train programmings skills | Kiev, Ukraine (EPAM) | Technologies: Node.JS, VueJS, Nest.JS, TypeScript, MySQL, Docker [github](https://github.com/orgs/extreme-startup/teams/kids-of-sun)|
-| 2017        | C-EYE, Application for get feedback from customers and developers during development process | Kiev, Ukraine (EPAM) | Technologies: Etherium, ReactNative,node.js |
-| 2016        | Smart House #2, application for make automatisation for smart home | Kiev, Dnepr, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) [article (ru)](https://dou.ua/lenta/articles/dou-labs-epam-smarthouse/) |
-| 2015        | Travel and help, application for make donations and make helps during travaling| Kiev, Ukraine (EPAM) | Technologies: react native, mongodb, node.js. [github](https://github.com/orgs/travel-and-help/teams/t-h) |
-| 2015        | Smart House, application for make automatisation for smart home | Kiev, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) |
 
 WORK EXPERIENCE
 | Date        | Type     | Company        |   Location    |    |
@@ -90,6 +81,5 @@ For Project Freeland:
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 2012 | Develop | PHP, html, mysql The system calculates the operating cost of the bst station, how many times it has to be run
-  | Viet Nam| |
+| 2012 | Develop | PHP, html, mysql The system calculates the operating cost of the bst station, how many times it has to be run| Viet Nam| |
 
