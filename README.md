@@ -35,10 +35,7 @@ List open source projects:
 WORK EXPERIENCE
 | Date        | Type     | Company        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 05/2007 - 12/2009| Project Manager | Trung Anh Information and Telecommunications, Huế | - Manage team develop software
-- Manage customer system
-- Join team develop Web application
-- Manage team |
+| 05/2007 - 12/2009| Project Manager | Trung Anh Information and Telecommunications, Huế | Manage team develop software, Manage customer system, Join team develop Web application, Manage team |
 
 For Project Freeland:
 -----------
