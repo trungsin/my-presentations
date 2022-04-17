@@ -37,6 +37,10 @@ WORK EXPERIENCE
 
 For Project Freeland:
 -----------
+## 2022
+| Date        | Type     | Title        |   Location    |    |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 01.2022| Develop Blockchain| My Seft | Walnut Creek, CA, United States | [slides](https://www.dnb.com/business-directory/company-profiles.hire_luv.85b9cbb52e4eb4d069b088b42c2897ef.html) |  
 
 ## 2020
 
@@ -47,7 +51,7 @@ For Project Freeland:
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 09.2017 - 11.2017| Develop | HireLuv | Walnut Creek, CA, United States | [slides](https://www.dnb.com/business-directory/company-profiles.hire_luv.85b9cbb52e4eb4d069b088b42c2897ef.html) |  
+| 09.2017 - 11.2017| Develop | HireLuv | This is project Frontend by Wordpress, and backend is nodejs from  Walnut Creek, CA, United States, I ma working with wordpress | [slides](https://www.dnb.com/business-directory/company-profiles.hire_luv.85b9cbb52e4eb4d069b088b42c2897ef.html) |  
 
 
 ## 2015 -2016
@@ -61,7 +65,7 @@ For Project Freeland:
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 2014 | Develop | Website shopping kamaka.vn  | VietNam| |
+| 2014 | Develop | I am a develop full stack for project. Website shopping kamaka.vn  | VietNam| |
 
 
 ## 2013
