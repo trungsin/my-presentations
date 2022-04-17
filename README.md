@@ -40,7 +40,7 @@ For Project Freeland:
 ## 2022
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 01.2022| Develop Blockchain| My Seft | Walnut Creek, CA, United States | [slides](https://www.dnb.com/business-directory/company-profiles.hire_luv.85b9cbb52e4eb4d069b088b42c2897ef.html) |  
+| 01.2022| Develop Blockchain| My Self | This is project for myself to learn blockchain. | I have not made the project public. |  
 
 ## 2020
 
