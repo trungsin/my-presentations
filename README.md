@@ -48,12 +48,6 @@ For Project Freeland:
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 09.2017 - 11.2017| Develop | HireLuv | Walnut Creek, CA, United States | [slides](https://www.dnb.com/business-directory/company-profiles.hire_luv.85b9cbb52e4eb4d069b088b42c2897ef.html) |  
-| 08.2017 | Presentation | Development for large-scale & scalable front-end applications. | SBTech Talks, Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/deck-48#/)|
-| 2017 | Training | Introducion to GIT | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/advanced-git-47#/)|
-|20.11.2017 | Training | TypeScript Plus Angular Course for non-JS Developers | Kiev, Ukraine (EPAM) | |
-|14.06.2017 | Training | Git Training | Kiev, Ukraine (EPAM) | |
-|23.12.2017 | Workshop | Minimum Valuable Product | Kiev, Ukraine (EPAM) | |
-|06.06.2017 | Training | Test Driven Development for JavaScript Developers | Kiev, Ukraine (EPAM) | |
 
 
 ## 2015 -2016
