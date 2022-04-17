@@ -1,7 +1,7 @@
 # Trung Sin Le
 > List of projects, public speaking, presentations conducted by me.
 
-![Trung Sin Le](https://images.vietnamworks.com/pictureofresume/93/161931781110122422.png)
+![Trung Sin Le](https://images.vietnamworks.com/pictureofresume/93/165016463210122422.png)
 
 ## About me
 
